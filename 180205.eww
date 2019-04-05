@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Part1Board\Part1Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part1BoartLoader\Part1BoartLoader.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part2Board\Part2Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part2BoartLoader\Part2BoartLoader.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part3Board\Part3Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part3BoartLoader\Part3BoartLoader.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part4Board\Part4Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part4BoartLoader\Part4BoartLoader.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part5Board\Part5Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Part5BoartLoader\Part5BoartLoader.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

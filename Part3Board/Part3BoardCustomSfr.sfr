@@ -1,0 +1,8 @@
+[Sfr]
+sfr = "ADC12CTL0",	"Memory",	0x700,	2,	base=16,	modified
+sfr = "UCB0BR0__SPI",	"Memory",	0x5e6,	1,	base=16,	modified
+sfr = "UCA1ICTL__SPI",	"Memory",	0x61c,	2,	base=16,	modified
+
+
+[SfrGroupInfo]
+group = "Custom", "ADC12CTL0", "UCB0BR0__SPI", "UCA1ICTL__SPI"

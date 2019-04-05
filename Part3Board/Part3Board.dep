@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>2560765435</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Source\Control.h</file>
+            <file>$PROJ_DIR$\Source\eeprom.h</file>
+            <file>$TOOLKIT_DIR$\config\lnk430f5438a_FlashApp.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SysInit.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\SysInit.pbi</file>
+            <file>$PROJ_DIR$\Source\FlashDrv.h</file>
+            <file>$PROJ_DIR$\Source\SysInit.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Control.r43</file>
+            <file>$TOOLKIT_DIR$\config\multiplier32_loc2.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\msp430f5438a.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$PROJ_DIR$\Debug\Exe\Part3Board.ulp</file>
+            <file>$PROJ_DIR$\Debug\Obj\FlashDrv.r43</file>
+            <file>$PROJ_DIR$\Source\FlashDrv.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\Uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\Part3Board.d43</file>
+            <file>$PROJ_DIR$\Debug\Exe\Part3Board.txt</file>
+            <file>$PROJ_DIR$\Debug\Obj\Uart.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Control.pbi</file>
+            <file>$PROJ_DIR$\Source\SysInit.c</file>
+            <file>$PROJ_DIR$\Source\eeprom.c</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.r43</file>
+            <file>$PROJ_DIR$\Source\main.c</file>
+            <file>$PROJ_DIR$\Source\Uart.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\FlashDrv.pbi</file>
+            <file>$PROJ_DIR$\Source\Control.c</file>
+            <file>$PROJ_DIR$\Source\Uart.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$PROJ_DIR$\Source\PIN_DEF.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\Source\FlashDrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22 31 10 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Part3Board.txt</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 2 9 8 13 4 18 23 11 29</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Source\SysInit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 32 7 28 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1 22 7 32 28 10 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Source\eeprom.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22 31 1 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Source\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 11</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 32 7 28 0 1 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0 22 7 6 32 28 1 10 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Source\Uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 32 28 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 28 22 32 1 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Source\Control.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 10 22 31 32 0 7 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22 28 0 32 7 10 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 17 16</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

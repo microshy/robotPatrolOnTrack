@@ -1,0 +1,5 @@
+Part1Board是主控板
+Part2Board是数据采集板
+Part3Board是局放轴运动控制板
+Part4Board是小车和伸缩杆运动控制板
+Part5Board是电源管理板

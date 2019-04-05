@@ -1,0 +1,6 @@
+[Sfr]
+sfr = "P9SEL",	"Memory",	0x28a,	1,	base=16,	modified
+
+
+[SfrGroupInfo]
+group = "Custom", "P9SEL"
